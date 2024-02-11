@@ -1,5 +1,5 @@
 # Sudoku
-- A simple sudoku game without a graphical user interface.
+- A simple sudoku game without graphical user interface (GUI).
 # Requirement
 - Python 3.5 or higher
 # How to Use

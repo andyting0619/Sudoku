@@ -22,3 +22,4 @@
 
 6. The file sudoku.spec and the folders dist and build will be generated inside the folder Sudoku-Main.
 7. The sudoku game application is located inside the folder dist.
+8. You can copy and run the sudoku game application on any computer without Python installed.

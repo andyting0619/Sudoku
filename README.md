@@ -1,7 +1,7 @@
 # Sudoku
 - A simple sudoku game without a graphical user interface.
 # Requirement
-- Python 3.8 or higher
+- Python 3.5 or higher
 # How to Use
 1. Download and extract the files.
 2. Run the command prompt as an administrator.
